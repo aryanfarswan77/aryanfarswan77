@@ -1,7 +1,7 @@
 <img src="https://github.com/aryanfarswan77/aryanfarswan77/raw/main/banner.png" alt="GitHub Banner" width="100%" />
 
 # 💫 About Me:
-About Me<br>I’m Aryan Farswan, a B.Tech Computer Science student with a strong interest in Machine Learning, Data Analytics, and AI-driven solutions. I enjoy working on practical projects that help solve real-world problems through data.<br><br>Education<br>B.Tech in Computer Science<br>Dr. APJ Abdul Kalam Institute of Technology, Tanakpur.<br><br>Skills<br><br>Programming: Python, SQL, R<br><br>Libraries/Tools: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Excel, Tableau<br><br>Areas: Machine Learning, Data Analysis, NLP, Deep Learning (learning in progress)<br><br>Currently Working On<br>Enhancing my knowledge in NLP and deep learning, and building data-driven applications.
+About Me<br>I’m Aryan Farswan, a B.Tech AI and ML student with a strong interest in Machine Learning, Data Analytics, and AI-driven solutions. I enjoy working on practical projects that help solve real-world problems through data.<br><br>Education<br>B.Tech in Computer Science<br>Dr. APJ Abdul Kalam Institute of Technology, Tanakpur.<br><br>Skills<br><br>Programming: Python, SQL, R<br><br>Libraries/Tools: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Excel, Tableau<br><br>Areas: Machine Learning, Data Analysis, NLP, Deep Learning (learning in progress)<br><br>Currently Working On<br>Enhancing my knowledge in NLP and deep learning, and building data-driven applications.
 
 
 ## 🌐 Socials:
